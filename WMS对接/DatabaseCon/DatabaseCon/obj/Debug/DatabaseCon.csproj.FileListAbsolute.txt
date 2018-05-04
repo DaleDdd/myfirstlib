@@ -1,0 +1,36 @@
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Form1.resources
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Form2.resources
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Properties.Resources.resources
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\bin\Debug\DatabaseCon.exe
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\bin\Debug\DatabaseCon.pdb
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.exe
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.pdb
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\bin\Debug\Interop.SQLDMO.dll
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\Interop.SQLDMO.dll
+F:\源码\C#范例手册\09\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.csproj.ResolveComReference.cache
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.csprojResolveAssemblyReference.cache
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Form1.resources
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Form2.resources
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Properties.Resources.resources
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.csproj.GenerateResource.Cache
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.exe
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.pdb
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\bin\Debug\DatabaseCon.exe
+C:\Users\MR\Desktop\200例\源程序\第5章  数据库操作应用\141\DatabaseCon\DatabaseCon\bin\Debug\DatabaseCon.pdb
+F:\200例光盘资源\C#精彩编程200例光盘资源\MR\05\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.exe
+F:\200例光盘资源\C#精彩编程200例光盘资源\MR\05\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.pdb
+H:\C#精彩200例\MR\05\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.exe
+H:\C#精彩200例\MR\05\141\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.pdb
+C:\Users\woshi\Desktop\连接数据库示例代码\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.exe
+C:\Users\woshi\Desktop\连接数据库示例代码\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.pdb
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.exe
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.pdb
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.csprojResolveAssemblyReference.cache
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Form1.resources
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Form2.resources
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.Properties.Resources.resources
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\obj\Debug\DatabaseCon.csproj.GenerateResource.Cache
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\bin\Debug\DatabaseCon.exe
+C:\Users\woshi\Desktop\WMS对接\DatabaseCon\DatabaseCon\bin\Debug\DatabaseCon.pdb
